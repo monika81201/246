@@ -7,5 +7,6 @@ void main()
 clrscr();
 printf("hello world");
 printf("welcome");
+printf("git and github");
 getch();
 }
